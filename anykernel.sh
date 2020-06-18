@@ -14,12 +14,8 @@ device.name1=rolex
 device.name2=redmi4a
 device.name3=riva
 device.name4=redmi5a
-device.name5=vince
-device.name6=redmi5plus
-device.name7=lavender
-device.name8=redminote7
-device.name9=ugglite
-device.name10=redminote5alite
+device.name5=ugglite
+device.name6=redminote5alite
 supported.versions=
 supported.patchlevels=
 '; } # end properties
